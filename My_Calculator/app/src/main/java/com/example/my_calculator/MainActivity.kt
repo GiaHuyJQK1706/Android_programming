@@ -1,4 +1,4 @@
-package com.example.my_caculator
+package com.example.my_calculator
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
