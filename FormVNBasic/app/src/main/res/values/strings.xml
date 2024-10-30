@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Font VN Basic</string>
+    <string name="select_province">Chọn Tỉnh/Thành</string>
+    <string name="select_district">Chọn Quận/Huyện</string>
+    <string name="select_ward">Chọn Phường/Xã</string>
+    <string name="student_id">MSSV</string>
+    <string name="full_name">Họ và Tên</string>
+    <string name="gender">Giới tính</string>
+    <string name="male">Nam</string>
+    <string name="female">Nữ</string>
+    <string name="email">Email</string>
+    <string name="phone">Số Điện Thoại</string>
+    <string name="birth_date">Ngày Sinh</string>
+    <string name="sports">Thể Thao</string>
+    <string name="movies">Điện Ảnh</string>
+    <string name="music">Âm Nhạc</string>
+    <string name="agree_terms">Tôi đồng ý với các điều khoản</string>
+    <string name="submit">Submit</string>
+</resources>
