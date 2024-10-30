@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             "JPY" to 145.0,
             "VND" to 25376.0,
             "KRW" to 1.389,
-            "SAR" to 3.75 // Thay thế CNY bằng SAR
+            "SAR" to 3.75
         ),
         "EUR" to mapOf(
             "USD" to 1.08,
